@@ -1,0 +1,1 @@
+Guarde nessa pasta somente documentos de especifição do projeto (ex. Planos de Projeto, Modelos de dados, modelos de software, editados em ferramentas especfiícas como o OracleDataModeler, Astah, BizagiModeler, e etc...)

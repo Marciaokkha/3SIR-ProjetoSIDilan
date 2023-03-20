@@ -1,0 +1,1 @@
+Guarde nessa pasta somente programas fontes de aplicação (.C, .JAVA, .SQL, e etc...)
